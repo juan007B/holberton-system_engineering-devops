@@ -3,4 +3,4 @@ list directory contents
 make directories
 move (rename) files
 remove files or directories
-Change the shell working directory.
+Change the shell working directory
