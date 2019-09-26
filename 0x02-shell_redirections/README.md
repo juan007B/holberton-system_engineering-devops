@@ -1,1 +1,1 @@
- is used to display line of text/string that are passed as an argument 
+Write arguments to the standard output 
