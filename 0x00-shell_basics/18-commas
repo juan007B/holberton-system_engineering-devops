@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lmpmr
+ls -lmpr\n
